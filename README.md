@@ -20,7 +20,7 @@
 
 <div align="center">
  <a href="https://github.com/mahmudbera">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%92%af+Mahmud+Bera+Karagöz+%f0%9f%92%af;%f0%9f%93%9a+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%92%af+Mahmud+Bera+Karagöz+%f0%9f%92%af;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
